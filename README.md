@@ -1,70 +1,138 @@
-# Welcome to your Lovable project
+# 🏥 Medinova – Digital Healthcare Platform
 
-## Project info
+**Medinova** is a comprehensive healthcare web platform designed to deliver accessible medical services, emergency support, and community-driven healthcare initiatives through a modern and intuitive user interface.
 
-**URL**: https://lovable.dev/projects/9f76b71f-ac8d-4e25-bea9-a53f16ece695
+🔗 **Live Deployment:**  
+https://mmedinova.vercel.app
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 📌 Project Overview
 
-**Use Lovable**
+Medinova aims to bridge the gap between patients and healthcare services by providing a single digital platform that integrates medical consultation, emergency services, pharmacy access, diagnostics, and humanitarian healthcare support—especially for underserved and rural communities.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/9f76b71f-ac8d-4e25-bea9-a53f16ece695) and start prompting.
+The platform focuses on **24×7 accessibility**, **ease of use**, and **healthcare awareness**, while maintaining a professional and responsive design.
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## ✨ Key Features
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### 🏠 Landing & Navigation
+- Cinematic landing page with healthcare background video  
+- Clear call-to-action options (Contact, Sign-Up, Helpline)  
+- Fully responsive UI for desktop and mobile devices  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### 🤖 AI Health Assistant (Prototype)
+- Chat-based interface for basic health-related queries  
+- Introductory AI assistant (logic extensible for future upgrades)
 
-Follow these steps:
+### 🩺 Doctor & Hospital Services
+- Doctor directory covering multiple specialties:
+  - Cardiologists  
+  - Neurologists  
+  - Pediatricians  
+  - Oncologists  
+  - Orthopedists  
+  - Dermatologists  
+- Doctor profile viewing and booking UI  
+- Hospital listings with:
+  - Facilities and service highlights  
+  - Rankings and recognitions  
+  - Emergency and appointment assistance  
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### 🚑 Emergency & Ambulance Services
+- 24×7 emergency helpline integration  
+- Ambulance booking services:
+  - Basic Life Support (BLS)  
+  - Advanced Life Support (ALS)  
+- Direct call-based ambulance booking option  
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### 💊 Farm Care (Online Pharmacy)
+- Prescription upload interface  
+- Medicine listing with pricing details  
+- Add-to-cart functionality (UI implementation)
 
-# Step 3: Install the necessary dependencies.
-npm i
+### 🧪 Diagnostics & Health Awareness
+- Nearby pathology lab locator  
+- Diagnostic test booking interface  
+- Health awareness content:
+  - High / Low Blood Pressure  
+  - High / Low Blood Sugar  
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+### 🤝 Community & Support Programs
+- Healthcare support for rural and underserved communities  
+- Volunteer registration form  
+- NGO collaboration submission  
+- Donation system with custom amount selection  
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🛠️ Tech Stack
 
-**Use GitHub Codespaces**
+- **Frontend:** HTML, CSS, JavaScript  
+- **UI/UX:** Responsive design with healthcare-focused layout  
+- **Deployment:** Vercel  
+- **Version Control:** Git & GitHub  
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## 📂 Project Structure
 
-This project is built with .
+root
+│
+├── front-end/
+│ ├── assets/
+│ ├── css/
+│ ├── js/
+│ ├── pages/
+│ └── index.html
+│
+├── README.md
+└── configuration files
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
 
-## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/9f76b71f-ac8d-4e25-bea9-a53f16ece695) and click on Share -> Publish.
 
-## I want to use a custom domain - is that possible?
+---
 
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
-#
+## 🚀 Getting Started
+
+### Prerequisites
+- Any modern web browser  
+- Git (optional, for cloning the repository)
+
+### Run Locally
+```bash
+git clone <repository-url>
+cd front-end
+open index.html
+
+
+
+
+
+
+📌 Current Status
+
+Frontend UI completed
+
+Successfully deployed on Vercel
+
+Backend services and database integration in progress
+
+🔮 Future Enhancements
+
+Backend integration with authentication and database
+
+Real-time doctor appointment booking system
+
+Enhanced AI-powered health assistant
+
+Payment gateway integration for pharmacy and donations
+
+Role-based dashboards (Patient, Doctor, Admin)
+
+👤 Author
+
+Rikita Roy
+Frontend Developer | Web Developer
