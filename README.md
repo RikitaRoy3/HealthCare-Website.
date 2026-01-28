@@ -76,24 +76,6 @@ The platform focuses on **24×7 accessibility**, **ease of use**, and **healthca
 
 ---
 
-## 📂 Project Structure
-
-root
-│
-├── front-end/
-│ ├── assets/
-│ ├── css/
-│ ├── js/
-│ ├── pages/
-│ └── index.html
-│
-├── README.md
-└── configuration files
-
-
-
-
----
 
 ## 🚀 Getting Started
 
