@@ -78,41 +78,17 @@ The platform focuses on **24×7 accessibility**, **ease of use**, and **healthca
 
 ## 📂 Project Structure
 
-MediNOVA1/
+root
+│
+├── front-end/
+│ ├── assets/
+│ ├── css/
+│ ├── js/
+│ ├── pages/
+│ └── index.html
+│
 ├── README.md
-├── Frontend/
-│   ├── package.json
-│   ├── package-lock.json
-│   ├── tailwind.config.ts
-│   ├── postcss.config.js
-│   ├── tsconfig.json
-│   ├── vite.config.ts
-│   ├── public/
-│   │   ├── assets/
-│   │   └── videos/
-│   │       └── health-background.mp4
-│   └── src/
-│       ├── app/
-│       ├── components/
-│       │   ├── Header/
-│       │   ├── Footer/
-│       │   ├── Hero/
-│       │   ├── Doctors/
-│       │   ├── Hospitals/
-│       │   ├── Ambulance/
-│       │   ├── Pharmacy/
-│       │   ├── Chatbot/
-│       │   └── UI/
-│       ├── pages/
-│       │   ├── Home.tsx
-│       │   ├── Doctors.tsx
-│       │   ├── Hospitals.tsx
-│       │   ├── Ambulance.tsx
-│       │   ├── FarmCare.tsx
-│       │   └── Support.tsx
-│       ├── styles/
-│       ├── utils/
-│       └── main.tsx
+└── configuration files
 
 
 
