@@ -85,6 +85,8 @@ Successfully deployed on Vercel
 
 Backend services and database integration in progress
 
+---
+
 🔮 Future Enhancements
 
 Backend integration with authentication and database
