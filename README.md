@@ -77,22 +77,6 @@ The platform focuses on **24×7 accessibility**, **ease of use**, and **healthca
 ---
 
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Any modern web browser  
-- Git (optional, for cloning the repository)
-
-### Run Locally
-```bash
-git clone <repository-url>
-cd front-end
-open index.html
-
-
-
-
-
 
 📌 Current Status
 
