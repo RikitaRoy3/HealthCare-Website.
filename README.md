@@ -77,7 +77,6 @@ The platform focuses on **24×7 accessibility**, **ease of use**, and **healthca
 ---
 
 
-
 📌 Current Status
 
 Frontend UI completed
@@ -97,6 +96,8 @@ Enhanced AI-powered health assistant
 Payment gateway integration for pharmacy and donations
 
 Role-based dashboards (Patient, Doctor, Admin)
+
+---
 
 👤 Author
 
