@@ -102,4 +102,4 @@ Role-based dashboards (Patient, Doctor, Admin)
 👤 Author
 
 Rikita Roy
-Frontend Developer | Web Developer
+Frontend Developer | MERN Stack Developer
