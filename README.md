@@ -3,7 +3,7 @@
 **Medinova** is a comprehensive healthcare web platform designed to deliver accessible medical services, emergency support, and community-driven healthcare initiatives through a modern and intuitive user interface !
 
 🔗 **Live Deployment:**  🚀
-https://mmedinova.vercel.app
+👉 https://mmedinova.vercel.app
 
 ---
 
